@@ -1,8 +1,10 @@
-*.iml
-.gradle
+/.idea/
+/.gradle/
+/build/
+/captures/
+/app/release.keystore
+/app/fabric.properties
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
+/import-summary.txt
+*.iml
+*.apk
